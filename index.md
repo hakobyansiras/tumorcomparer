@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## TumorComparer, updated version GSOC 2021
 
 You can use the [editor on GitHub](https://github.com/hakobyansiras/tumorcomparer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
