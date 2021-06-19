@@ -8,7 +8,7 @@ author: Siras Hakobyan
 ## Coding Phase
 
 After github automated checks were established, we were workin on package errors and wornings. 
-I detected some inconsistent and conflicting namings in some scripts and managed to fix them. With the help of the mentor we also cleared 4 warnings and finally got succesiful testing mark from github
+I detected some inconsistent and conflicting namings in some scripts and managed to fix them. With the help of the mentor we also cleared 4 warnings and finally got succesiful testing mark from github.
 
 ## Work Progress
 
