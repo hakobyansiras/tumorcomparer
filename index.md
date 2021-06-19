@@ -1,6 +1,6 @@
 
 
-### GSoC20 Reports
+### GSoC 2021 Reports
 <table>
   {% for post in site.reports reversed %}
     {% if post.tags contains "gsoc" %}
