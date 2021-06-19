@@ -1,37 +1,26 @@
-## TumorComparer, updated version GSOC 2021
+---
+layout: post
+title:  "Week One | Let's Start Coding"
+tags: [gsoc, weekly report, coding period ]
+author: Priti Shaw
+---
 
-You can use the [editor on GitHub](https://github.com/hakobyansiras/tumorcomparer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Coding Phase
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is the period of GSoC where the students work on their projects, with an intention to contribute to the Open Source Community.  
+This phase spans until the end of the program. During this period, three evaluations are done to keep a track of the progress the student is making. First evaluation starts from 29th June and the final one marks the end of the program.
 
-### Markdown
+## Work Progress
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. **Make Indra HTML Assembler Work With Chrome Plugin**  
+    Status: **Under Development**  
+    **Issue:** [Make Indra HTML Assembler Work With Chrome Plugin](https://github.com/cannin/enhance_nlp_interaction_network_gsoc2020/issues/5)
 
-```markdown
-Syntax highlighted code block
+2. **Extract MESH terms MTI Batch mode**  
+    Status: **Under Development**  
+    **Issue:** [MTI Batch Mode](https://github.com/cannin/enhance_nlp_interaction_network_gsoc2020/issues/1)
 
-# Header 1
-## Header 2
-### Header 3
+## Conclusion  
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hakobyansiras/tumorcomparer/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The week was a great start to my open source journey.<br>
+I hope that the Open Source community finds a good contributor in me, by the end of summer.
