@@ -1,2 +1,2 @@
 # tumorcomparer
-This blogpost is made for the weekly GSOC reports
+GSOC 2021 Reports
