@@ -15,10 +15,6 @@ In this week I was getting familiar with package testing and GitHub CI/CD pipeli
     Status: **Under Development**  
     **Issue:** [Set up automated CRAN checks for the repository](https://github.com/sanderlab/tumorcomparer/issues/3)
 
-2. **Extract MESH terms MTI Batch mode**  
-    Status: **Under Development**  
-    **Issue:** [MTI Batch Mode](https://github.com/cannin/enhance_nlp_interaction_network_gsoc2020/issues/1)
-
 ## Conclusion  
 
 This week was really interesting with a lot of new information about package testing and automated github checks.
