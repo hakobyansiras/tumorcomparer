@@ -1,20 +1,19 @@
 ---
 layout: post
-title:  "Week One | Let's Start Coding"
+title:  "Week One | Automated testing with Github actions"
 tags: [gsoc, weekly report, coding period ]
-author: Priti Shaw
+author: Siras Hakobyan
 ---
 
 ## Coding Phase
 
-This is the period of GSoC where the students work on their projects, with an intention to contribute to the Open Source Community.  
-This phase spans until the end of the program. During this period, three evaluations are done to keep a track of the progress the student is making. First evaluation starts from 29th June and the final one marks the end of the program.
+In this week I was getting familiar with package testing and GitHub CI/CD pipelines. In the end of the week I seted up github automated tests for the package with "usethis" package.
 
 ## Work Progress
 
-1. **Make Indra HTML Assembler Work With Chrome Plugin**  
+1. **Set up GitHub Actions**  
     Status: **Under Development**  
-    **Issue:** [Make Indra HTML Assembler Work With Chrome Plugin](https://github.com/cannin/enhance_nlp_interaction_network_gsoc2020/issues/5)
+    **Issue:** [Set up automated CRAN checks for the repository](https://github.com/sanderlab/tumorcomparer/issues/3)
 
 2. **Extract MESH terms MTI Batch mode**  
     Status: **Under Development**  
@@ -22,5 +21,4 @@ This phase spans until the end of the program. During this period, three evaluat
 
 ## Conclusion  
 
-The week was a great start to my open source journey.<br>
-I hope that the Open Source community finds a good contributor in me, by the end of summer.
+This week was really interesting with a lot of new information about package testing and automated github checks.
