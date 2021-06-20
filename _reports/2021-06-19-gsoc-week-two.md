@@ -12,7 +12,7 @@ I detected some inconsistent and conflicting namings in some scripts and managed
 
 ## Work Progress
 
-1. **test_tumorcomparer.R Error**
+1. **test_tumorcomparer.R Error**   
     Status։ **Done**
     **Issue:** [Files naming issue](https://github.com/sanderlab/tumorcomparer/issues/4)
 
