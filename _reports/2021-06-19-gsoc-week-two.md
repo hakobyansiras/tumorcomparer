@@ -7,8 +7,8 @@ author: Siras Hakobyan
 
 ## Coding Phase
 
-After github automated checks were established, we were workin on package errors and wornings. 
-I detected some inconsistent and conflicting namings in some scripts and managed to fix them. With the help of the mentor we also cleared 4 warnings and finally got succesiful testing mark from github.
+After github automated checks were established, we were working on package errors and warnings. 
+I detected conflicting file namings in some scripts and managed to fix them. With the help of the mentor we also cleared 4 warnings and finally got succesiful testing mark from github.
 
 ## Work Progress
 
@@ -20,6 +20,11 @@ I detected some inconsistent and conflicting namings in some scripts and managed
     Status: **Under Development**  
     **Issue:** [Documentation related warnings](https://github.com/sanderlab/tumorcomparer/issues/5)
 
+3. **Generalize run_comparison.R Code** 
+    Status: **Under Development**   
+    **Issue:** [Generalize run_comparison.R Code](https://github.com/sanderlab/tumorcomparer/issues/6)
+
+
 ## Conclusion  
 
-This week..
+During this week I managed to clear package errors and warnings and started to work on issue #6
