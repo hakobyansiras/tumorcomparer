@@ -7,7 +7,7 @@ author: Siras Hakobyan
 
 ## Coding Phase
 
-This week I was working on genralization of the run comparison function. The task was to optimize the function and generilize function inputs that comparsion function can get any type of datset. 
+This week I was working on genralization of the run comparison function. The task was to optimize the function and generilize function inputs that comparsion function can get any type of dataset. 
 Now I am making documentation for the new function, and generating new synthetic datasets to test the function.
 
 ## Work Progress
