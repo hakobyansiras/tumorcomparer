@@ -17,7 +17,7 @@ Now I am making documentation for the new function, and generating new synthetic
     **Issue:** [Generalize run_comparison.R Code](https://github.com/sanderlab/tumorcomparer/issues/6)
 
 2. **Generete synthetic dat for testing of the new function**  
-    Status: **Under Development**  
+    Status: **Under Development**    
     **Issue:** [Make a test for 5 data types](https://github.com/sanderlab/tumorcomparer/issues/10)
 
 3. **Add Documentation to new run_comparison function** 
