@@ -20,7 +20,7 @@ Now I am making documentation for the new function, and generating new synthetic
     Status: **Under Development**    
     **Issue:** [Make a test for 5 data types](https://github.com/sanderlab/tumorcomparer/issues/10)
 
-3. **Add Documentation to new run_comparison function** 
+3. **Add Documentation to new run_comparison function**      
     Status: **Under Development**   
     **Issue:** [Add Documentation to run_comparison_config_list](https://github.com/sanderlab/tumorcomparer/issues/9)
 
