@@ -5,10 +5,8 @@ tags: [gsoc, weekly report, coding period ]
 author: Siras Hakobyan
 ---
 
-## Coding Phase
-
-After github automated checks were established, we were working on package errors and warnings. 
-I detected conflicting file namings in some scripts and managed to fix them. With the help of the mentor we also cleared 4 warnings and finally got succesiful testing mark from github.
+After GitHub automated checks were established, we were working on package errors and warnings. 
+I detected conflicting file names in some scripts and managed to fix them. With the help of the mentor, we also cleared 4 warnings and finally got a successful testing mark from Github.
 
 ## Work Progress
 
