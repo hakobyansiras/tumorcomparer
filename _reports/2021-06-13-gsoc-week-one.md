@@ -7,7 +7,7 @@ author: Siras Hakobyan
 
 ## Coding Phase
 
-In this week I was getting familiar with package testing and GitHub CI/CD pipelines. In the end of the week I set up github automated tests for the package with "usethis" package.
+This week I was getting familiar with package testing and GitHub CI/CD pipelines. At the end of the week, I set up GitHub automated tests for the package with "usethis" package.
 
 ## Work Progress
 
@@ -17,4 +17,4 @@ In this week I was getting familiar with package testing and GitHub CI/CD pipeli
 
 ## Conclusion  
 
-This week was really interesting with a lot of new information about package testing and automated github checks.
+This week was really interesting with a lot of new information about package testing and automated GitHub checks.
